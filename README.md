@@ -16,6 +16,8 @@
 
  This data analysis project, iams to to provide insights on factors that lead to customers purchasing our bikes or not. By analyzing various factors such as Average income, age group and region. We Will be able to identify trends and provide data-driven recommendations.
 
+Bike-sales Report
+
  ### Data sources
 
 Bike Sales: The primary data set i used for this activity is " Bike-sales.csv" file, containing detailed information about customers and if purchased the bike or not
