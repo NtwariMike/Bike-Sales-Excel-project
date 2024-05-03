@@ -14,7 +14,7 @@
  - [Sharing](#sharing)
 ### Project Overview
 
- This data analysis project, iams to to provide insights on factors that lead to customers purchasing our bikes or not. By analyzing various factors such as Average income, age group and region. We Will be able to identify trends and provide data-driven recommendations.
+ This data analysis project, iams to provide insights on factors that lead to customers purchasing our bikes or not. By analyzing various factors such as Average income, age group and region. We Will be able to identify trends and provide data-driven recommendations.
 
 Bike-sales Report
 
