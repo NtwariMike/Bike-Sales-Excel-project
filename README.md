@@ -14,9 +14,10 @@
  - [Sharing](#sharing)
 ### Project Overview
 
- This data analysis project, iams to provide insights on factors that lead to customers purchasing our bikes or not. By analyzing various factors such as Average income, age group and region. We Will be able to identify trends and provide data-driven recommendations.
+ This data analysis project aims to providing insights on factors that lead to customers purchasing bikes or not. By analyzing various factors such as Average income, age group and region. We Will be able to identify trends and provide data-driven recommendations.
 
 Bike-sales Report
+<img width="517" alt="2024-04-09" src="https://github.com/NtwariMike/Bike-sales-Analysis-excel-project-/assets/150134943/b830b991-9a3b-4994-bdf4-b282dfdd1c3e">
 
  ### Data sources
 
@@ -31,9 +32,9 @@ Bike Sales: The primary data set i used for this activity is " Bike-sales.csv" f
 ### Data Cleaning
 
 In the initial data preparation phase, we performed the following,
-1. I applied filters to help understand data and easily navigate through data
+1. I applied filters to help me understand data and easily navigate through data
 2. I applied conditional formatting for duplicate values in the ID column
-3. I deleted the duplicates
+3. I deleted duplicates
 4. For Martital status, I had M and S which sometimes can confuse stakeholders. So I used find and replace (CTR + H) on M to Married and S to Single.
 5. For Gender, I had M and F which sometimes can confuse stakeholders. So I used find and replace (CTR + H) on M to Male and F to Female.
 6. For the age column, I had to put them into ranges to make it simple when visualizing the data 
